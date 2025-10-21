@@ -1,0 +1,61 @@
+# Git files
+.git
+.gitignore
+.github
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+.eggs
+
+# Virtual environments
+venv
+env
+ENV
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Test files
+.coverage
+.pytest_cache
+htmlcov
+
+# Node modules (will be installed during build)
+node_modules
+*.min.js
+*.min.css
+
+# Documentation
+*.md
+docs/
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+
+# CI/CD files
+.travis.yml
+.gitlab-ci.yml
+.semgrepignore
+.mergify.yml
+
+# Development files
+.pre-commit-config.yaml
+commitlint.config.js
