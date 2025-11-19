@@ -17,3 +17,16 @@ __pycache__
 .vscode/
 node_modules/
 .backportrc.json
+
+# Temporary documentation and scripts
+CONNECTION_VALIDATION.md
+DOCKER_GUIDE.md
+README-DOCKER-FIXES.md
+THEME_README.md
+backup-volumes.sh
+restore-volume.sh
+verify-setup.sh
+build.log
+
+# Custom theme (removed from project)
+custom_theme/
